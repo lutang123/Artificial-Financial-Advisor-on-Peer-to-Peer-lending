@@ -1,5 +1,9 @@
 # Artificial-Financial-Advisor-on-Peer-to-Peer-lending
 
-This is my capstone project which I created a machine learning model that can help investor reduce risk by 14% while still earn 8% return in peer-to-peer lending.
+This is my project which I created a machine learning model that can help investor reduce risk by 14% while still earn 8% return in peer-to-peer lending.
 
-Please click on separate project file to see the code and anylizing result.
+Project includes data cleaning, data analyzing and testing with different machine learning models, logistic regression, random forest and neural networks etc.
+
+### <a href="https://nbviewer.jupyter.org/github/lutang123/Artificial-Financial-Advisor-on-Peer-to-Peer-lending/blob/master/Project_Part1_Understanding%20and%20cleaning%20data.ipynb">Part 1</a>
+
+### <a href="https://nbviewer.jupyter.org/github/lutang123/Artificial-Financial-Advisor-on-Peer-to-Peer-lending/blob/master/Project_Part2_Testing%20Machines%20Learning%20models.ipynb">Part 2</a>
