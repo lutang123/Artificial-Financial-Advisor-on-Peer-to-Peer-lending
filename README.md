@@ -8,4 +8,4 @@ Project includes data cleaning, data analyzing and testing with different machin
 
 ### <a href="https://nbviewer.jupyter.org/github/lutang123/Artificial-Financial-Advisor-on-Peer-to-Peer-lending/blob/master/Project_Part1_Understanding%20and%20cleaning%20data.ipynb">Part 1: Data Wrangling</a>
 
-### <a href="https://nbviewer.jupyter.org/github/lutang123/Artificial-Financial-Advisor-on-Peer-to-Peer-lending/blob/master/Project_Part2_Testing%20Machines%20Learning%20models.ipynb">Part 2</a>
+### <a href="https://nbviewer.jupyter.org/github/lutang123/Artificial-Financial-Advisor-on-Peer-to-Peer-lending/blob/master/Project_Part2_Testing%20Machines%20Learning%20models.ipynb">Part 2: Testing models</a>
